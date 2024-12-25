@@ -8,7 +8,7 @@
 ---
 
 <p align = "center">
-	<img src = https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg/>
+	<img src = https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake-dark.svg/>
 </p>
 
 

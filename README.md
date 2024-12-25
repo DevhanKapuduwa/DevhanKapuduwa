@@ -1,9 +1,11 @@
 <div align=center>
-      <img height="200" alt="Avatar photo of KK10" src="https://github.com/10kartik/10kartik/assets/99239411/21742f3f-d9a7-4a53-8530-7d20d51e03a9" alt="Avatar photo of KK10">
+      <img height="200" alt="Avatar photo of Devhan Kapuduwa" src="https://github.com/10kartik/10kartik/assets/99239411/21742f3f-d9a7-4a53-8530-7d20d51e03a9" alt="Avatar photo of KK10">
   </div>
   <h1 align="center">Hi , <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Devhan Kapuduwa</h1>
 
 <h3 align="center">A passionate 🎓 Engineering Student | 📱 Full Stack Developer | 🎸 Guitar Enthusiast</h3>
+
+---
 
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
@@ -13,6 +15,8 @@
   <img align="right" top="500" height="100" width="100" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
+### 👨‍💻 About Me
 
 - 🔭 I’m currently working on **Security Personnel Operations Tracking System**
 
@@ -25,6 +29,8 @@
 - 📫 How to reach me **devhan.hansaja123@gmail.com**
 
 - ⚡ Fun fact     **I consider coffee to be an essential part of my debugging toolkit. ☕🔧**
+
+---
 
 <br>
 
@@ -40,7 +46,7 @@
 
 
 
-<h3 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">  &nbsp;Languages and Tools</h3>
+<h3 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">  &nbsp;⚙️ Technologies & Tools</h3>
 
 <p align="center"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
@@ -96,7 +102,7 @@
 
 <hr width="36%" >
 
-<h3>My GitHub Stats</h3>
+<h3>📊 My GitHub Stats</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 <br>
 
